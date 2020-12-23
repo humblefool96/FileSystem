@@ -1,0 +1,11 @@
+{
+  "env" : {
+    "PORT": 3000,
+    "MONGO_ATLAS_PW" : "algebra96",
+    "JWT_KEY" : "secretKey",
+    "AWS_ACCESS_KEY_ID": "AKIAZJSURUKDL2JW5HVL",
+    "AWS_SECRET_KEY": "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",
+    "AWS_BUCKET_NAME": "myimages1729",
+    "AWS_REGION": "US East (Ohio) us-east-2"
+  }
+}
